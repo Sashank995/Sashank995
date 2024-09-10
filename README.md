@@ -1,6 +1,6 @@
 ![MasterHead](https://b1463816.smushcdn.com/1463816/wp-content/uploads/2015/04/banner-web-development.png?lossy=2&strip=1&webp=1)
 <h1 align="center">Hi 👋, I'm Sashank Ch</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendra2821&label=Profile%20views&color=0e75b6&style=flat" alt="mahendra2821" /> </p>

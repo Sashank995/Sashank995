@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/jammula mahendera babu" target="blank"><img src="https://img.shields.io/twitter/follow/jammula mahendera babu?logo=twitter&style=for-the-badge" alt="jammula mahendera babu" /></a> </p>
 
-- 🔭 I’m currently working on **html,css,javaScript,reactjs**
+- 🔭 I’m currently working as a **Software engineer**
 
-- 🌱 I’m currently learning **javaScript,reactjs**
-
-- 💬 Ask me about **javaScript**
+- 🌱 I’m currently learning **ai, ml, rlhf**
 
 - 📫 How to reach me **chsashank9@gmail.com**
 

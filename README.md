@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as a **Software engineer**
 
-- 🌱 I’m currently learning **ai, ml, rlhf**
+- 🌱 I’m currently learning **LLm's **
 
 - 📫 How to reach me **chsashank9@gmail.com**
 
